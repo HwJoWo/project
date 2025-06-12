@@ -12,7 +12,7 @@
 
 python calculator.py
 
-
+## ✅ 방법 2: Visual Studio Code (VS Code)에서 실행
 1. VS Code 설치 👉 https://code.visualstudio.com/
 
 2. VS Code 실행 후 `calculator.py` 파일 열기
