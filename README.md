@@ -10,7 +10,7 @@
 1. Python 3 설치 필요: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. 터미널에서 아래 실행:
 
-```bash
+bash
 python calculator.py
 
 
